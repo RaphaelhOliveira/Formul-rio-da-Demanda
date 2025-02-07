@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de Demanda</title>
+  <link rel="stylesheet" href="index.css"> 
+</head>
+<body>
+
+<div class="container">
+  
+  <div class="field">
+    <input type="text" id="nome-da-demanda" placeholder="Nome da Demanda" />
+  </div>
+
+  
+  <div class="field">
+    <div class="input-container">
+      <input type="text" id="editor-1" placeholder="Editar texto" />
+      <img class="foto" src="https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png" alt="Icone 1" />
+    </div>
+  </div>
+
+  
+  <div class="field">
+    <div class="input-container">
+      <input type="text" id="editor-2" placeholder="Editar texto" />
+      <img class="foto" src="https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png" alt="Ícone 2" />
+    </div>
+  </div>
+
+  
+  <div class="field">
+    <div class="input-container">
+      <img class="foto" src="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/BB4A/production/_92664974_c6c3a394-f5af-4a71-b267-8374cf007780.jpg.webp" alt="Ícone 3" />
+      <input type="text" id="editor-3" placeholder="Editar texto" />
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
